@@ -18,3 +18,17 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+ul {
+  list-style: none;
+}
+
+.card-title {
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+.list-group-item, .card-top {
+  display: flex;
+  align-items: center;
+}
